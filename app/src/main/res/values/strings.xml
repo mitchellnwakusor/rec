@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">rec</string>
+    
+    <string-array name="shopping_list">
+        <item>Bread</item>
+        <item>Butter</item>
+        <item>Honey</item>
+        <item>Sugar</item>
+        <item>Eggs</item>
+    </string-array>
+
+    <string-array name="descripton">
+        <item>a kind of food made of flour or meal that has been mixed with milk or water, made into a dough or batter, with or without yeast or other leavening agent, and baked.</item>
+        <item>a solid emulsion of fat globules, air, and water made by churning milk or cream and used as food.</item>
+        <item>a sweet, viscous food substance made by honey bees and some related insects.</item>
+        <item>a sweet material that consists essentially of sucrose obtained from sugarcane or sugar beets, is typically colorless or white when pure, and is commonly used to sweeten foods and beverages.</item>
+        <item> an oval or rounded body surrounded by a shell or membrane by which some animals (as birds, fish, insects, and reptiles) reproduce and from which the young hatches out.</item>
+    </string-array>
+</resources>
